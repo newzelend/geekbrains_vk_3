@@ -18,7 +18,7 @@ class AuthViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
-
+//hjkl
     }
     //sdfghjkl;
     func authorizeToVK() {
